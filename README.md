@@ -11,7 +11,7 @@
 ![Preview](./src/assets/ss.png)
 
 ### Expanded View
-![Preview](./src/assets/ss2.png)
+![Preview](./src/assets/ss3.png)
 
 ---
 
